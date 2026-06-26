@@ -1,0 +1,43 @@
+Copyright (c) 2026 Zihni <Your Surname>
+
+All Rights Reserved.
+
+This repository and its contents — including the source code, the trained
+model file (assets/waste_classifier.tflite), the label file, and the
+documentation (collectively, the "Software") — are the proprietary property
+of the copyright holder.
+
+No permission is granted to any person or entity to use, copy, modify, merge,
+publish, distribute, sublicense, or sell any part of the Software, in whole or
+in part, by any means, without the prior written permission of the copyright
+holder.
+
+Viewing this repository on GitHub (or any other host) for reference purposes
+does not grant any license or right to use the Software. Forking the
+repository within GitHub, as permitted by GitHub's Terms of Service, likewise
+grants no rights to use the Software outside of GitHub.
+
+To request permission for any use, contact the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+------------------------------------------------------------------------------
+THIRD-PARTY / DATASET ATTRIBUTION (required, independent of the terms above)
+
+The bundled model was trained on the RealWaste dataset, which is licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Attribution to the dataset authors is required and is provided here:
+
+  S. Single, S. Iranmanesh, and R. Raad, "RealWaste: A Novel Real-Life Data
+  Set for Landfill Waste Classification Using Deep Learning," Information,
+  vol. 14, no. 12, p. 633, 2023. https://doi.org/10.3390/info14120633
+  UCI Machine Learning Repository: https://doi.org/10.24432/C5SS4G
+
+The CC BY 4.0 terms apply only to the dataset and any portion of the model
+that constitutes an adaptation of it. They do not grant any rights to the
+remainder of the Software, which remains All Rights Reserved as stated above.
