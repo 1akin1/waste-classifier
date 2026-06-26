@@ -9,9 +9,13 @@ score — entirely on the device, with no internet connection required.
 
 ## Screenshots
 
-<!-- Add your screenshots to a `screenshots/` folder and reference them here. -->
-<!-- Example: -->
-<!-- ![Home screen](screenshots/home.png) -->
+<p align="center"> 
+
+<img width="1080" height="2400" alt="Screenshot_20260626_214810" src="https://github.com/user-attachments/assets/bf347f90-4ee7-4e7d-864b-b5166ede3312" />
+<img width="1080" height="2400" alt="Screenshot_20260626_214832" src="https://github.com/user-attachments/assets/ea34c14e-4c3b-451b-8f11-240c02e27247" />
+<img width="1080" height="2400" alt="Screenshot_20260626_214844" src="https://github.com/user-attachments/assets/d125f7de-0ad6-42da-9ffe-1282c0b3df9f" />
+ 
+</p>
 
 ## Features
 
