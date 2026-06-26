@@ -11,9 +11,9 @@ score — entirely on the device, with no internet connection required.
 
 <table align="center">
   <tr>
-    <td></td><img width="1080" height="2400" alt="Screenshot_20260626_214810" src="https://github.com/user-attachments/assets/bf347f90-4ee7-4e7d-864b-b5166ede3312" />
-    <td><img width="1080" height="2400" alt="Screenshot_20260626_214832" src="https://github.com/user-attachments/assets/ea34c14e-4c3b-451b-8f11-240c02e27247" />
-    <td><img width="1080" height="2400" alt="Screenshot_20260626_214844" src="https://github.com/user-attachments/assets/d125f7de-0ad6-42da-9ffe-1282c0b3df9f" />
+    <td><img src="https://github.com/user-attachments/assets/bf347f90-4ee7-4e7d-864b-b5166ede3312" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ea34c14e-4c3b-451b-8f11-240c02e27247" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d125f7de-0ad6-42da-9ffe-1282c0b3df9f" width="250"/></td>
   </tr>
 </table>
 
@@ -99,4 +99,5 @@ above is required independently of these terms.
 
 ## Author
 
-Zihni <Your Surname>
+Zihni AKIN
+1akin1
