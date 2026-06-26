@@ -1,0 +1,8 @@
+# Force Dart as primary language
+*.dart linguist-language=Dart
+
+# Ignore generated / platform folders
+build/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
